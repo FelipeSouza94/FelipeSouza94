@@ -2,7 +2,7 @@
 - 💻 Desenvolvedor em Desenvolvimento!
 - 🔭 I estou em busca de uma opor na area de DEV!
 - 🌱 I’m currently learning  javascrip e python !
-- 📫 Felipepereiradesouza@hotmail.com
+- 📫 Felipepereiradesouza@hotmail.com            
 
 
 <div align="center">
